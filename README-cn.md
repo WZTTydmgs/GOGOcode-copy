@@ -24,6 +24,9 @@ const a = 1;
 const b = 2;
 const c=3; 
 ##  c is text add
+const c = 4;
+const d = 5;
+##try other
 ```
 
 ### 通过 GoGoCode 来编写转换代码
